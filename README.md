@@ -48,7 +48,7 @@ Kegiatan analisis dan visualisasi data ini memberikan pengalaman praktis yang be
 ## 🛠️ Alat dan Pustaka yang Digunakan
 * **Bahasa Pemrograman:** Python
 * **Pustaka:**
-    * `pandas` (Data Manipulation)
+    * `pandas` (Data Manipulation) 
     * `matplotlib` (Data Visualization)
     * `seaborn` (Statistical Data Visualization)
 
